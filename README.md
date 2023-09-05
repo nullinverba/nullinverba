@@ -3,8 +3,11 @@
   📊 I gained my first experiences in the field of automatic processing and analysis of human language at the Institute for Natural Language Processing (IMS) at the University of Stuttgart. I'm currently interested in the field of data science.
   
   👀 I’m interested in Data Science.
+  
   🌱 I’m currently learning big data analysis tools.
+  
   📚 Reading: You can give me your best self development recommendations!
+  
   
   📫 How to reach me:
   linkedin.com/in/sercan-halat-966203284
