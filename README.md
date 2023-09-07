@@ -1,6 +1,6 @@
   👋 Hi, I’m Sercan!
 
-  📊 I gained my first experiences in the field of automatic processing and analysis of human language at the Institute for Natural Language Processing (IMS) at the University of Stuttgart. I'm interested in the field of data science.
+  📊 I gained my first experiences in the field of automatic processing and analysis of human language at the Institute for Natural Language Processing (IMS) at the University of Stuttgart.
   
   👀 I’m interested in Data Science.
   
