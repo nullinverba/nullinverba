@@ -4,7 +4,7 @@
   
   👀 I’m interested in Data Science.
   
-  🌱 I’m currently learning big data analysis tools.
+  🌱 Im currently learning big data analysis tools.
   
   📚 Reading: You can give me your best self development recommendations!
   
