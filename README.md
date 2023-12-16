@@ -8,7 +8,7 @@
   
   📚 Reading: You can give me your best self development recommendations!
 
-  📱 You can follow my social media account where I share about technology design and artificial intelligence. IG | @bytebeyin
+  📱 You can follow my social media account where I share about technology, design and artificial intelligence. IG | @bytebeyin
   
   📫 How to reach me:
   linkedin.com/in/sercanhalat
