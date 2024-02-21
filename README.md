@@ -1,10 +1,8 @@
   👋 Hi, I’m Sercan!
 
   👀 I’m a Data Scientist.
-
-  📊 I conducted my doctoral research on corpus studies and the design of digital teaching materials. During my postdoctoral work, I focused on detecting hate speech in social media using machine learning models.
   
-  🌱 I'm currently learning big data analysis tools.
+  📊 I'm currently learning big data analysis tools.
   
   📚 Reading: You can give me your best self development recommendations!
 
