@@ -2,7 +2,7 @@
 
   👀 I’m a Data Scientist.
   
-  📊 I'm currently learning big data analysis tools.
+  📊 I'm currently carrying out projects.
   
   📚 Reading: You can give me your best self development recommendations!
 
